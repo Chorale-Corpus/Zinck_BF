@@ -16,7 +16,7 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composer">Rein</metaTag>
+    <metaTag name="composer">Bendix Friedrich Zinck</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2021-02-21</metaTag>
     <metaTag name="lyricist"></metaTag>
@@ -27,8 +27,7 @@
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Ach! wie elend ist unser Zeit
-</metaTag>
+    <metaTag name="workTitle">Wenn wir unsern Lauf vollenden [Melodie c]</metaTag>
     <Order id="orchestral" customized="1">
       <name>Orchestral</name>
       <instrument id="piano">
@@ -150,6 +149,18 @@
     <Staff id="1">
       <VBox>
         <height>10</height>
+        <Text>
+          <style>Title</style>
+          <text>Wenn wir unsern Lauf vollenden [Melodie c]</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>ZI1785-055c</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Bendix Friedrich Zinck</text>
+          </Text>
         </VBox>
       <Measure>
         <voice>

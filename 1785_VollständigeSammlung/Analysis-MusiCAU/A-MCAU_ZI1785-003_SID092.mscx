@@ -16,7 +16,7 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composer">Zinck, Bendix Friedrich</metaTag>
+    <metaTag name="composer">Benedix Friedrich Zinck</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2022-08-22</metaTag>
     <metaTag name="lyricist"></metaTag>
@@ -155,7 +155,7 @@
           </Text>
         <Text>
           <style>Composer</style>
-          <text>Zinck, Bendix Friedrich</text>
+          <text>Benedix Friedrich Zinck</text>
           </Text>
         <Text>
           <style>Subtitle</style>
@@ -165,8 +165,8 @@
       <Measure>
         <voice>
           <Clef>
-            <concertClefType>C1</concertClefType>
-            <transposingClefType>C1</transposingClefType>
+            <concertClefType>G</concertClefType>
+            <transposingClefType>G</transposingClefType>
             </Clef>
           <KeySig>
             <accidental>1</accidental>
