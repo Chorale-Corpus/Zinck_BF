@@ -1,0 +1,8 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+WARNING  ms3.Parse.Zinck_BF.A-MCAU_ZI1785-016b
+	The startRepeat in MC 6 is missing its endRepeat.
+	For correction, MC 13 is interpreted as such because it is the last bar of the piece..
+FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.Zinck_BF.A-MCAU_ZI1785-016b
+	No metronome mark found in the first measure nor anywhere else in the score.
