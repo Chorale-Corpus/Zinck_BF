@@ -15,19 +15,22 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="SID">70</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="composed_end">1785</metaTag>
+    <metaTag name="composed_start">1785</metaTag>
     <metaTag name="composer">Bendix Friedrich Zinck</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2021-04-12</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementTitle">Verleih uns Frieden gnädiglich</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Verleih uns Frieden gnädiglich</metaTag>
+    <metaTag name="workTitle">Vollständige Sammlung der Melodien zu den Gesängen des neuen allgemeinen Schleswig-Holsteinischen Gesangbuchs</metaTag>
     <Order id="orchestral" customized="1">
       <name>Orchestral</name>
       <instrument id="piano">
